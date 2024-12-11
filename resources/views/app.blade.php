@@ -9,7 +9,10 @@
     @inertiaHead
     <style>
       body {
-        background-color: lightgray
+        background-color: white
+      }
+      .bg-skyblue {
+        background-color: #0001E9
       }
     </style>
   </head>
